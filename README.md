@@ -58,4 +58,4 @@ Salaries:
 # P.S.
 > [!NOTE]
 > Плагин является платным, купить его Вы можете по ссылке ниже.\
-> https://funpay.com/lots/offer?id=53563310
+> https://funpay.com/lots/offer?id=56562647
