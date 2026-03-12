@@ -1,0 +1,22 @@
+messages:
+  reload: "&aПлагин успешно перезагружен"
+salaries:
+  default:
+    time: 60 #В секундах
+    permission: "asalary.default"
+    money: 2000
+    message:
+      - "&aВы получили &e2000 &aмонет и алмаз"
+      - "&aза 1 минуту на сервере"
+      - "&aТеперь ваш баланс: %vault_eco_balance%"
+    commands:
+      - "give {player} diamond 1"
+  vip:
+    time: 60 #В секундах
+    permission: "asalary.vip"
+    money: 10000
+    message:
+      - "&#FFF000Вы получили 10000"
+      - "&#FFF000за 1 минуту на сервере"
+      - "&#FFF000Теперь ваш баланс: %vault_eco_balance%"
+    commands: []

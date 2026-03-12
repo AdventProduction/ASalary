@@ -1,0 +1,6 @@
+name: ASalary
+version: '1.0-SNAPSHOT'
+main: kz.ifihtich.asalary.ASalary
+depend: [Vault, PlaceholderAPI]
+commands:
+  asalary:
